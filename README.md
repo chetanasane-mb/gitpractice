@@ -6,3 +6,4 @@ some chanes for new branch
 git 
  now doing it from branch
  trying to push and may get conflict and now doing from chet
+ some changes to learn rebase and merge nad squash and merge
